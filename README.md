@@ -18,7 +18,7 @@ bitwise operations is ineffective except for XOR operations under the right assu
 ```shell
   sudo python3 noise.py
 ```
-## Result 
+## Result:
 ![Mr_robot](https://user-images.githubusercontent.com/70896562/220156051-6bfcc731-2844-45a1-9e0c-c48f1a085c93.png)
 |:--:| 
 | *Original photo* |
